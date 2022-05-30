@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
 
 :root {
-  --main-color-1: firebrick;
-  --main-color-2: lightslategray;
+  --main-color-1: rgb(139, 123, 34);
+  --main-color-2: black;
   --code-color: #C0DFD9
 }
 

@@ -9,13 +9,11 @@ function Header (props){
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.5.0/styles/agate.min.css"/>
         </Head>
         <div id="logo">
-        <Link href="/"><Image src={"/images/banner-logo-trans.PNG"} alt="GrokOverflow Logo" height={100} width={300}/></Link>
+        <Link href="/"><Image src={"/images/better-caucus-banner.png"} alt="GrokOverflow Logo" height={50} width={150}/></Link>
         </div>
         <nav className={styles.nav}>
             <Link href="/blog"><div className={styles.link}>BLOG</div></Link>
-            <Link href="/podcasts"><div className={styles.link}>PODCASTS</div></Link>
-            <Link href="/video"><div className={styles.link}>VIDEOS</div></Link>
-            <a href="https://join.slack.com/t/amwebdev/shared_invite/enQtNzc4NDA3MDU3MDE0LTZjNjIyZmQ3MzA5Y2Q3MWUwZjk3NTIyYjliOThlMWFjNTFkYWM1OGUxN2Y3NGExNGVhOGIzZTg0YTJjZTk5NDA"><div className={styles.link}>COMMUNITY</div></a>
+            <a href="https://join.slack.com/t/bebettercaucus/shared_invite/zt-1a0bu2pep-EXCjM8A3Sy~d7nzp_mzl3Q"><div className={styles.link}>COMMUNITY</div></a>
         </nav>
     </header>
 }

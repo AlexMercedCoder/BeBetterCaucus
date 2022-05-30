@@ -24,6 +24,14 @@
   align-items: center;
 }
 
+.main p {
+  font-size: 1em;
+}
+
+.main ul {
+  text-align: left;
+}
+
 .footer {
   display: flex;
   flex: 1;
