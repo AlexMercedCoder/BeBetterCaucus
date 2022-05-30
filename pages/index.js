@@ -71,32 +71,17 @@ export default function Home() {
               Promoting consent in the movement of goods, services, capital and
               people. (Free Exchange &amp; Anti-prohibition)
             </li>
-          </ul>
-          <ul
-            id="d9b82c47-3784-41f3-af9c-cbf679e71adf"
-            className="bulleted-list"
-          >
             <li>
               Encouraging a culture that enables respect for individual consent
               and coexistence by encouraging individuals to CHOOSE to embrace
               compassion, tolerance, kindness and forgiveness and individualism
               (Live and let live)
             </li>
-          </ul>
-          <ul
-            id="6e41c263-6746-4aa4-a443-ea5389b1b6e8"
-            className="bulleted-list"
-          >
             <li>
               Helping organize consent/community based solutions to to modern
               challenges (volunteering/fundraising for local shelters, soup
               kitchens, educational programs, etc.)
             </li>
-          </ul>
-          <ul
-            id="00f0e719-a0f1-4a7d-8290-8ff3e8a6d49a"
-            className="bulleted-list"
-          >
             <li>
               Organizing to support Libertarian Party candidates who can
               credibly move the caucus principles forward. (You don’t have to be
@@ -126,30 +111,15 @@ export default function Home() {
               A clearing house for sub-group to organize activism around
               particular issues, locations or candidacies
             </li>
-          </ul>
-          <ul
-            id="2bdb02cd-2a70-4742-a94f-76e23b32386a"
-            className="bulleted-list"
-          >
             <li>
               A brand that people can organize under without worrying about
               their personal disagreements outside that narrowly scoped
               sub-group. Long as your ok with the broad principles stated above,
               your good.
             </li>
-          </ul>
-          <ul
-            id="954ea97c-23e4-4039-9603-47b4ae2b7d48"
-            className="bulleted-list"
-          >
             <li>
               Helping be a beacon to organize for on the ground direct activism
             </li>
-          </ul>
-          <ul
-            id="57d14dbf-bf25-44d3-abfa-a182471cae3e"
-            className="bulleted-list"
-          >
             <li>
               An effort to bring spaces for collaboration that couldn’t happen
               in more broadly defined spaces where broad disagreements can more
@@ -200,17 +170,7 @@ export default function Home() {
             className="bulleted-list"
           >
             <li>organizing in a particular county - “bbc-orange-county-fl”</li>
-          </ul>
-          <ul
-            id="5766e39f-7ae3-40d8-9183-26d316062e5c"
-            className="bulleted-list"
-          >
             <li>organizing for a particular issue - “bbc-drug-war”</li>
-          </ul>
-          <ul
-            id="d5b4ff29-976d-45ed-8fc0-e619a915e68b"
-            className="bulleted-list"
-          >
             <li>Organizing for a particular candidate - “bbc-larry-sharpe”</li>
           </ul>
           <p id="dd9ccabf-69a5-423d-b949-6e4181f28694" className="">
@@ -236,20 +196,10 @@ export default function Home() {
               No off-topic disruptive discussions (conspiracy theories, debating
               other issues)
             </li>
-          </ul>
-          <ul
-            id="8afd3ee2-8f13-4806-a1f4-b71cb9b2812d"
-            className="bulleted-list"
-          >
             <li>
               No bigotry (if you got grief saying something at thanksgiving or
               in a public setting, don’t say it here)
             </li>
-          </ul>
-          <ul
-            id="7947f1b0-067a-47bb-ac7b-0d1d87b34508"
-            className="bulleted-list"
-          >
             <li>
               Respect others (no ad-hominem attacks, no misgendering
               participants that clearly stated a preferred pronoun, no assuming
